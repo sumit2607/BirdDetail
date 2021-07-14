@@ -35,23 +35,20 @@ public class MainActivity extends AppCompatActivity  implements ItemClickListene
     private void initData() {
         userlist=new ArrayList<>();
 
-        userlist.add(new Database("jeff_bezos",209,"18-12-1956","361, rajpur khurd new delhi",R.drawable.jeff_bezos_1));
-        userlist.add(new Database("Prateek Shukla",210,"28-02-1996","361 rajpur khurd new delhi",R.drawable.prateek_sukla_1));
-        userlist.add(new Database("bill gataes",211,"28-02-1997","Usa",R.drawable.bill_gates_1));
-        userlist.add(new Database("jeff_bezos",209,"18-12-1956","361, rajpur khurd new delhi",R.drawable.jeff_bezos_1));
-        userlist.add(new Database("Prateek Shukla",210,"28-02-1996","361 rajpur khurd new delhi",R.drawable.prateek_sukla_1));
-        userlist.add(new Database("bill gataes",211,"28-02-1997","Usa",R.drawable.bill_gates_1));
-        userlist.add(new Database("jeff_bezos",209,"18-12-1956","361, rajpur khurd new delhi",R.drawable.jeff_bezos_1));
-        userlist.add(new Database("Prateek Shukla",210,"28-02-1996","361 rajpur khurd new delhi",R.drawable.prateek_sukla_1));
-        userlist.add(new Database("bill gataes",211,"28-02-1997","Usa",R.drawable.bill_gates_1));
-        userlist.add(new Database("jeff_bezos",209,"18-12-1956","361, rajpur khurd new delhi",R.drawable.jeff_bezos_1));
-        userlist.add(new Database("Prateek Shukla",210,"28-02-1996","361 rajpur khurd new delhi",R.drawable.prateek_sukla_1));
-        userlist.add(new Database("bill gataes",211,"28-02-1997","Usa",R.drawable.bill_gates_1));
-        userlist.add(new Database("jeff_bezos",209,"18-12-1956","361, rajpur khurd new delhi",R.drawable.jeff_bezos_1));
-        userlist.add(new Database("Prateek Shukla",210,"28-02-1996","361 rajpur khurd new delhi",R.drawable.prateek_sukla_1));
-        userlist.add(new Database("bill gataes",211,"28-02-1997","Usa",R.drawable.bill_gates_1));
+        userlist.add(new Database("Name-:pigeon",209,"color-:Blue","voice-:gturgoo",R.drawable.pigeon));
+        userlist.add(new Database("Name-owl",210,"color-:Yellow","voice-:dont know",R.drawable.owl));
+        userlist.add(new Database("Dove",211,"White","Like pigeon",R.drawable.dove));
+        userlist.add(new Database("panguin",212,"white-black","choo-choo",R.drawable.cute2));
+        userlist.add(new Database("Name-owl",210,"color-:Yellow","voice-:dont know",R.drawable.owl));
+        userlist.add(new Database("Dove",211,"White","Like pigeon",R.drawable.dove));
+        userlist.add(new Database("Name-:pigeon",209,"color-:Blue","voice-:gturgoo",R.drawable.pigeon));
 
+        userlist.add(new Database("panguin",212,"white-black","choo-choo",R.drawable.cute2));
+        userlist.add(new Database("Name-owl",210,"color-:Yellow","voice-:dont know",R.drawable.owl));
+        userlist.add(new Database("Dove",211,"White","Like pigeon",R.drawable.dove));
+        userlist.add(new Database("Name-:pigeon",209,"color-:Blue","voice-:gturgoo",R.drawable.pigeon));
 
+        userlist.add(new Database("panguin",212,"white-black","choo-choo",R.drawable.cute2));
 
     }
 
